@@ -1,0 +1,13 @@
+library(data.table)
+library(SPEI)
+library(magrittr)
+library(zoo)
+library(ggplot2)
+library(foreign)
+library(dplyr)
+library(forcats)
+library(grid)
+library(gridExtra)
+library(ggrepel)
+library(viridis)
+
